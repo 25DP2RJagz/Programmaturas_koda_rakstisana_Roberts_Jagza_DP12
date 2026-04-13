@@ -32,6 +32,7 @@ header {
     font-size: 40px;
     font-family: "IBM Plex Serif", serif;
     transition: 0.4s;
+    text-decoration: none;
 }
 .headerbutton:hover {
     background-color:#553A41;
